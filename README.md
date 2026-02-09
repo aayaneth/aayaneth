@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Python with AI**
 
-- 📫 How to reach me **aayandeori2@gmail.com**
+- 📫 How to reach me - aayandeori2@gmail.com
 
-- ⚡ Fun fact **I make documentaries**
+- ⚡ Fun fact - I make documentaries
 
 
 ## Socials:
