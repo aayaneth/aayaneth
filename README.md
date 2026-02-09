@@ -8,7 +8,6 @@
 - 📫 How to reach me - aayandeori2@gmail.com
 
 - ⚡ Fun fact - I make documentaries
-- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
