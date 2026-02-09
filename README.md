@@ -1,4 +1,6 @@
-# 💫 About Me:
+<h1 align="center">Hi, I'm aayan</h1>
+<h3 align="center">A passionate developer and a wanderer</h3>
+
 🌱 I’m currently learning Python with AI<br>📫 How to reach me - aayandeori2@gmail.com<br>⚡ Fun fact - I make documentaries
 
 
